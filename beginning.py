@@ -40,5 +40,3 @@ while True:
     screen.blit(debugsurface, debugrect)
     pygame.display.flip()
     runtime.tick(30) # Run at 30 frames a second
-
-
